@@ -10,7 +10,7 @@ pipeline {
         stage('Preparation') {
             steps {
                 // Get some code from a GitHub repository
-                git 'https://github.com/nicks204/spring-boot-websocket-chat-demo.git'
+                git 'https://github.com/Raghugithub9/spring-boot-websocket-chat-demo.git'
                 
             }
         }
